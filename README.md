@@ -1,5 +1,5 @@
 Hello everyone,  
-The contents in this repository are questions and codes in my ALGORITHM class.
+The contents in this repository are questions, codes, and notes in my ALGORITHM class.
 
 There are 3 parts in each file:
 1. TOP：questions and requirements of the questions
