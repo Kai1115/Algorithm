@@ -16,4 +16,4 @@ s="""君不見黃河之水天上來，奔流到海不復回。
 呼兒將出換 美酒，與爾同銷萬古愁。""" # 先令一個變數s 將詩詞存為字串
 print(s) # 輸出字串
 
-# Notes: 用三個quotation marks可以將string存成很多行
+# Notes: 用3個quotation marks或是反斜線\可以將string存成很多行
