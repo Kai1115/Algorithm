@@ -1,4 +1,4 @@
-Hello everyone, /n
+Hello everyone, \n
 the contents in this repository are questions and codes in my ALGORITHM class.
 
 There are 3 parts in each file:
